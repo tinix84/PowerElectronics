@@ -1,3 +1,5 @@
+> **Note:** This is a reference fork. The original upstream repository is the actively maintained version. This fork is kept for personal reference and is not actively developed.
+
 # Power Electronics and Switched-Mode Power Supply - Free resources
 All the links provided in this list are free available material. The rights belong to the respective author(s). 
 
